@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+codeshaman/__init__.py
+codeshaman/bubble.py
+codeshaman/cli.py
+codeshaman/quotes.py
+codeshaman/shamans.py
+codeshaman.egg-info/PKG-INFO
+codeshaman.egg-info/SOURCES.txt
+codeshaman.egg-info/dependency_links.txt
+codeshaman.egg-info/entry_points.txt
+codeshaman.egg-info/top_level.txt
